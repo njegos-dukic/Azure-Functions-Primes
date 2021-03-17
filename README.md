@@ -1,7 +1,6 @@
 # Azure Functions (FaaS) - Distributed Prime Number Finder
 
 <img src = "..\assets\Azure Functions.png" width = 150/>
-
 ---
 
 - Functions are ideal when you're concerned only about the code running your service and not the underlying platform or infrastructure. They're commonly used when you need to perform work in response to an event (often via a REST request), timer, or message from another Azure service, and when that work can be completed quickly, within seconds or less.
